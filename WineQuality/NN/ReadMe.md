@@ -1,1 +1,1 @@
-Deployed Pytorch modell
+Deployed Pytorch model
